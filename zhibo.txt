@@ -12,13 +12,3 @@ CCTV10,http://go.bkpcp.top/mg/cctv10
 CCTV11,http://go.bkpcp.top/mg/cctv11
 CCTV12,http://go.bkpcp.top/mg/cctv12
 CCTV13,http://go.bkpcp.top/mg/cctv13
-赣州,#genre#
-赣州公共,http://119.167.188.244/wb.jxgztv.com/live/gztv2.m3u8
-赣州公共,http://wb.jxgztv.com/live/gztv2.flv
-赣州公共,rtmp://wb.jxgztv.com/live/gztv2
-赣州教育,rtmp://wb.jxgztv.com/live/gztv3
-赣州教育,http://119.167.188.244/wb.jxgztv.com/live/gztv3.m3u8
-赣州教育,http://wb.jxgztv.com/live/gztv3.flv
-赣州新闻,rtmp://wb.jxgztv.com/live/gztv1
-赣州新闻,http://wb.jxgztv.com/live/gztv1.flv
-赣州新闻,http://119.167.188.244/wb.jxgztv.com/live/gztv1.m3u8
