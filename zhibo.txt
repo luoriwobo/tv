@@ -3,6 +3,7 @@ CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
 CCTV4,http://go.bkpcp.top/mg/cctv4
+CCTV4,https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
 CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV6,http://go.bkpcp.top/mg/cctv6
 CCTV7,http://go.bkpcp.top/mg/cctv7
