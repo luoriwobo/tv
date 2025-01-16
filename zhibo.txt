@@ -18,11 +18,9 @@ CCTV15,http://goo.bkpcp.top/mg/cctv15
 CCTV17,http://goo.bkpcp.top/mg/cctv17
 地方,#genre#
 江西卫视,http://goo.bkpcp.top/mg/jxws
-湖南卫视,http://goo.bkpcp.top/mg/hnws
-湖北卫视,http://goo.bkpcp.top/mg/hbws
+河南卫视,http://goo.bkpcp.top/mg/hnws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
 广东卫视,http://goo.bkpcp.top/mg/gdws
-浙江卫视,http://goo.bkpcp.top/mg/zjws
 陕西卫视,http://goo.bkpcp.top/mg/sxws
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF11%E3%80%8F
 CGTN,https://pi.0472.org/chc/jt.m3u8$LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF7%E3%80%8F
