@@ -1,5 +1,6 @@
 央视,#genre#
 CCTV1,http://goo.bkpcp.top/mg/cctv1
+CCTV1,http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=36f5ff1c689b33c20f5c89edaf1fc5fc&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20250210192436&Channel_ID=0116_2600025000-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=211.101.247.19&SecurityKey=20250210192436&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.1.2-RELEASE&userid=1227545935&jmhm=36f5ff1c689b33c20f5c89edaf1fc5fc&videocodec=h264&bean=mgspipad&tid=ipad&conFee=0&mtv_session=47c99166dc43aa96f55c49bee56fb677&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=425910e0a7a200470f6eaf7baa63cb2c
 CCTV2,http://goo.bkpcp.top/mg/cctv2
 CCTV3,http://goo.bkpcp.top/mg/cctv3
 CCTV4,http://goo.bkpcp.top/mg/cctv4
